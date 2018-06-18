@@ -1,0 +1,11 @@
+drwxr-xr-x  11 talys    ftpuser      4096 Oct 22  2014 .
+drwxr-xr-x  28 talys    ftpuser      4096 Oct 22  2014 ..
+drwxr-xr-x   2 talys    ftpuser      4096 Oct 22  2014 angle
+drwxr-xr-x   2 talys    ftpuser      4096 Oct 22  2014 input
+drwxr-xr-x   7 talys    ftpuser      4096 Oct 22  2014 lib
+drwxr-xr-x   2 talys    ftpuser      4096 Oct 22  2014 parameters
+drwxr-xr-x   2 talys    ftpuser      4096 Oct 22  2014 plots
+drwxr-xr-x   2 talys    ftpuser     12288 Oct 22  2014 residual
+drwxr-xr-x   2 talys    ftpuser     12288 Oct 22  2014 spectra
+drwxr-xr-x   2 talys    ftpuser      4096 Oct 22  2014 total
+drwxr-xr-x   2 talys    ftpuser     12288 Oct 22  2014 xs

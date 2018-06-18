@@ -1,0 +1,13 @@
+drwxr-xr-x   2 talys    ftpuser      4096 Oct 22  2014 .
+drwxr-xr-x   4 talys    ftpuser      4096 Oct 22  2014 ..
+-rw-r--r--   1 talys    ftpuser        38 Oct 20  2014 checkr.ers
+-rw-r--r--   1 talys    ftpuser        38 Oct 20  2014 fizcon.ers
+-rw-r--r--   1 talys    ftpuser         0 Oct 20  2014 fudge.dif
+-rw-r--r--   1 talys    ftpuser        37 Oct 20  2014 fudge.ers
+-rw-r--r--   1 talys    ftpuser       205 Oct 20  2014 Mo100-d.tendls30.checkr
+-rw-r--r--   1 talys    ftpuser       435 Oct 20  2014 Mo100-d.tendls30.fizcon
+-rw-r--r--   1 talys    ftpuser      1850 Oct 20  2014 Mo100-d.tendls30.fudge
+-rw-r--r--   1 talys    ftpuser     36117 Oct 20  2014 Mo100-d.tendls30.prepro
+-rw-r--r--   1 talys    ftpuser     38719 Oct 20  2014 Mo100-d.tendls30.psyche
+-rw-r--r--   1 talys    ftpuser        38 Oct 20  2014 prepro.ers
+-rw-r--r--   1 talys    ftpuser       148 Oct 20  2014 psyche.ers

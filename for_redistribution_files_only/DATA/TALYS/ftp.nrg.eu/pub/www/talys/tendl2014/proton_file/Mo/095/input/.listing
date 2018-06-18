@@ -1,0 +1,10 @@
+drwxr-xr-x   2 talys    ftpuser      4096 Oct 27  2014 .
+drwxr-xr-x  11 talys    ftpuser      4096 Oct 27  2014 ..
+-rw-r--r--   1 talys    ftpuser       172 Oct 26  2014 acf.inp
+-rw-r--r--   1 talys    ftpuser       171 Oct 26  2014 eaf.inp
+-rw-r--r--   1 talys    ftpuser       180 Oct 26  2014 energies
+-rw-r--r--   1 talys    ftpuser       260 Oct 26  2014 gpf.inp
+-rw-r--r--   1 talys    ftpuser       360 Oct 26  2014 gpfs30.inp
+-rw-r--r--   1 talys    ftpuser       402 Oct 26  2014 gpfs60.inp
+-rw-r--r--   1 talys    ftpuser       185 Oct 26  2014 njoy.inp
+-rw-r--r--   1 talys    ftpuser       527 Oct 26  2014 talys.inp

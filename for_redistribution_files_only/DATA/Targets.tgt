@@ -1,0 +1,95 @@
+# STARTTGT
+# DESCRIPTION
+Natural Titanium
+# DENSITY
+4.5189
+# ISOTOPES
+Ti46g 0.0825
+Ti47g 0.0744
+Ti48g 0.7372
+Ti49g 0.0541
+Ti50g 0.0518
+# SRIM
+pd
+SRIM/HydrogeninTitanium.txt
+ah
+SRIM/HeliuminTitanium.txt
+# STARTTGT
+# DESCRIPTION
+Natural Calcium
+# DENSITY
+1.54
+# ISOTOPES
+Ca40g 0.96941
+Ca42g 0.00641
+Ca43g 0.00135
+Ca44g 0.02086
+Ca46g 4e-05
+Ca48g 0.00187
+# SRIM
+pd
+SRIM/HydrogeninCalcium.txt
+ah
+SRIM/HeliuminCalcium.txt
+# STARTTGT
+# DESCRIPTION
+Natural Yttrium
+# DENSITY
+4.469
+# ISOTOPES
+Y89g 1
+# SRIM
+pd
+SRIM/HydrogeninYttrium.txt
+ah
+SRIM/HeliuminYttrium.txt
+# STARTTGT
+# DESCRIPTION
+Natural Molybdenum
+# DENSITY
+3000
+# ISOTOPES
+Mo92g 0.1465
+Mo94g 0.0919
+Mo95g 0.1587
+Mo96g 0.1667
+Mo97g 0.0958
+Mo98g 0.2429
+Mo100g 0.0974
+# SRIM
+pd
+SRIM/HydrogeninMolybdenum.txt
+ah
+SRIM/HeliuminMolybdenum.txt
+# STARTTGT
+# DESCRIPTION
+Enriched Mo100 (97%)
+# DENSITY
+10.206
+# ISOTOPES
+Mo92g 0.0053
+Mo94g 0.0018
+Mo95g 0.0029
+Mo96g 0.0034
+Mo97g 0.0028
+Mo98g 0.0096
+Mo100g 0.9742
+# SRIM
+pd
+SRIM/HydrogeninMolybdenum.txt
+ah
+SRIM/HeliuminMolybdenum.txt
+# STARTTGT
+# DESCRIPTION
+Water
+# DENSITY
+1
+# ISOTOPES
+H1g 0.6667
+O18g 0.3333
+# SRIM
+pd
+SRIM/HydrogeninWater_Liquid(ICRU-276).txt
+ah
+SRIM/HeliuminWater_Liquid(ICRU-276).txt
+#ENDFILE

@@ -1,0 +1,11 @@
+drwxr-xr-x   2 talys    ftpuser      4096 Oct 27  2014 .
+drwxr-xr-x  11 talys    ftpuser      4096 Oct 27  2014 ..
+-rw-r--r--   1 talys    ftpuser      1784 Oct 26  2014 aprod.tot
+-rw-r--r--   1 talys    ftpuser      1784 Oct 26  2014 dprod.tot
+-rw-r--r--   1 talys    ftpuser      1784 Oct 26  2014 gprod.tot
+-rw-r--r--   1 talys    ftpuser      1784 Oct 26  2014 hprod.tot
+-rw-r--r--   1 talys    ftpuser      1214 Oct 26  2014 nonelastic.tot
+-rw-r--r--   1 talys    ftpuser      1784 Oct 26  2014 nprod.tot
+-rw-r--r--   1 talys    ftpuser      1784 Oct 26  2014 pprod.tot
+-rw-r--r--   1 talys    ftpuser      1209 Oct 26  2014 totalxs.tot
+-rw-r--r--   1 talys    ftpuser      1784 Oct 26  2014 tprod.tot

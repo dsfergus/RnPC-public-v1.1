@@ -1,0 +1,2 @@
+A	Element	Z	N	MS	Dec Mode	A_D	Element_D	Z_D	N_D	MS_D_1	Branching_D_1	MS_D_2	Branching_D_2
+99	Mo	42	52	g	B-	99	Tc	43	56	g	0.13	m	0.87
